@@ -1,1 +1,4 @@
 # SecondApp
+
+#kupka modyfikacja
+gi
